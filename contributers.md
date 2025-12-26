@@ -20,5 +20,6 @@
 | Sourish Awasthi         | LooninS              | IIIT Allahabad                 |
 | Saumya Sood             | Marcella2706         | IIIT Allahabad                 |
 | Akshat Parmar           | AkshaTGA             | IIIT Allahabad                 |
+| Ishan Tripathi          | ishantripathi64      | IIIT Allahabad                 |
 <!-- ADD ABOVE THIS -->
 <!-- example | Korvac | Betty41 | Reyansh College | -->
