@@ -26,6 +26,7 @@
 | Ayush Mishra           | ayush-mg            | IIIT Allahabad                 |
 | Mukut kumar            | MK-codes365         | UIET (CSJMU) Kanpur            |
 | Mannat Jain           |mannatjain11465-netizen| IIIT Allahabad               |
+| Kushagra Sahu          |       KushagraSahu-01           |IIIT Allahabad      |
 | Adarsh Shankar Rai      | Adarshrai24          | BIET Jhansi                    |
 | Aaditya Maurya | aadityamaurya31 | IIIT Allahabad |
 
